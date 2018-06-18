@@ -1,0 +1,2 @@
+Chapter 2 excercise simply doesn't compile because of C in std::Cout is
+capitalize. Supposed to be a test, but it's EZ, so not bothering with it
